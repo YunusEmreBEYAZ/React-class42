@@ -18,6 +18,12 @@ code {
   align-items: center;
 }
 
+.category-btn {
+  display: flex;
+  justify-content: left;
+
+}
+
 .header {
   text-align: left;
 }

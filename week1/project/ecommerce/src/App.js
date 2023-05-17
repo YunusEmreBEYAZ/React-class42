@@ -1,5 +1,4 @@
 import './App.css';
-import AllProducts from './allProducts.js';
 import Categories from './categories.js';
 
 function App() {
